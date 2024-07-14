@@ -8,6 +8,6 @@ Gestión de Materias: Añade, edita y elimina materias y sus respectivas notas.
 Interfaz Intuitiva: Diseño amigable y fácil de usar.
 Historial de Notas: Guarda el historial de calificaciones para futuras referencias.
 Tecnologías Utilizadas:
-Kotlin
-Android SDK
-Material Design
+* Kotlin
+* Android SDK
+* Material Design
