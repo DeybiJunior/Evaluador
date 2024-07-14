@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539339584850",
+    "project_id": "evaluador-e367e",
+    "storage_bucket": "evaluador-e367e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539339584850:android:d7394f34dd6727e009b68b",
+        "android_client_info": {
+          "package_name": "com.dapm.evaluador"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATUPRQVkf5_wy0gOWSIcUnJDNjLXov8eA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
