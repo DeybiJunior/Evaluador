@@ -1,3 +1,50 @@
 <resources>
-    <string name="app_name">Evaluador</string>
+    <string name="app_name">EValuador</string>
+
+
+
+    <style name="CircleImage">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+
+    //registro
+    <string name="error_password_no_number">La contraseña debe contener al menos una numero</string>
+    <string name="error_password_too_short">La contraseña debe tener al menos 8 caracteres</string>
+    <string name="error_password_no_uppercase">La contraseña debe contener al menos una letra mayúscula</string>
+    <string name="error_password_no_lowercase">La contraseña debe contener al menos una letra minúscula</string>
+    <string name="error_nombres">Por favor ingrese los nombres</string>
+    <string name="error_apellidos">Por favor ingrese los apellidos</string>
+    <string name="error_edad">Edad no válida.</string>
+    <string name="error_email">Correo electrónico no válido</string>
+
+
+    <string name="default_web_client_id">539339584850-e6e0kf8upvk0g3pg2fr344junuf52ppi.apps.googleusercontent.com</string>
+
+    <string-array name="frases_calculo">
+        <item>📊 ¿Qué nota calculamos hoy?</item>
+        <item>🔢 Descubramos tu nota de hoy </item>
+        <item>🧮 Hagamos números, ¿qué calculamos?</item>
+        <item>📖 Evalúa tu esfuerzo, ¿qué nota necesitas?</item>
+        <item>✍️ ¡A calcular! ¿Qué revisamos hoy?</item>
+        <item>🧐 Veamos si aprobaste, ¿qué nota necesitas?</item>
+        <item>📐 ¡Matemáticas al rescate! ¿Qué quieres saber?</item>
+        <item>📊 ¿Listo para conocer tu promedio?</item>
+        <item>🔍 Hagamos cuentas, ¿qué resultado esperas?</item>
+        <item>🎯 ¡Vamos a calcular! ¿Cuál es tu meta?</item>
+        <item>📝 ¿Preparado para descubrir tu rendimiento?</item>
+        <item>🤔 ¡Saca la calculadora mental! ¿Qué revisamos?</item>
+        <item>🎓 ¿Necesitas saber si pasaste? Hagámoslo.</item>
+        <item>📚 ¡La matemática no miente! ¿Qué necesitas calcular?</item>
+        <item>💯 ¿Buscando ese 20 soñado? Veamos qué necesitas.</item>
+        <item>✅ ¿Pasaste el curso? ¡Hagamos los cálculos!</item>
+        <item>📈 ¿Promedio final? Vamos a descubrirlo.</item>
+    </string-array>
+
+
+    //login
+    <string name="error_password">Please enter your password</string>
+    <string name="delete_button_description">eliminar variable</string>
+
 </resources>

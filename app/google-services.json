@@ -12,7 +12,12 @@
           "package_name": "com.dapm.evaluador"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "539339584850-e6e0kf8upvk0g3pg2fr344junuf52ppi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyATUPRQVkf5_wy0gOWSIcUnJDNjLXov8eA"
@@ -20,7 +25,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539339584850-e6e0kf8upvk0g3pg2fr344junuf52ppi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

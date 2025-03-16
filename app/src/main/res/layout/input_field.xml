@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingTop="16dp"
+    android:orientation="horizontal"
+    android:gravity="center_vertical">
+
+    <EditText
+        android:id="@+id/notaEditText"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:layout_marginEnd="8dp"
+        android:background="@drawable/rounded_edittext"
+        android:hint="Nota"
+        android:inputType="numberDecimal"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:textColor="@color/md_theme_primary"
+        android:textColorHint="@android:color/darker_gray" />
+
+    <EditText
+        android:id="@+id/porcentajeEditText"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:layout_marginEnd="8dp"
+        android:background="@drawable/rounded_edittext"
+        android:hint="Porcentaje"
+        android:inputType="numberDecimal"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:textColor="@color/md_theme_primary"
+        android:textColorHint="@android:color/darker_gray" />
+
+    <ImageButton
+        android:id="@+id/deleteButton"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:background="@drawable/rounded_button"
+        android:contentDescription="Eliminar"
+        android:src="@android:drawable/ic_delete"
+        app:tint="@color/design_default_color_background"
+        android:padding="10dp"/>
+
+</LinearLayout>
